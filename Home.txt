@@ -1,0 +1,5 @@
+Task to write all commands 
+Git add (filename)
+git clone url- to clone the git hub workplace to the directory you are working on 
+git commit to define the file usage and why to add 
+git push - to push the code or file to the git hub
